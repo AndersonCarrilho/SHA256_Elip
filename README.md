@@ -4,6 +4,12 @@ Aqui estão diversos codigos em python sem usar bibliotecas já existentes ,tota
 
 Coloquei um delay de 1 segundo para que cada processo possa ser acompanhado na tela, e assim com o tempo cada usuário ou programador possa entender melhor seus processos de Criptografia.
 
+E tambem um conversor de ChavePublica;
+Conversor de Chave Publica "Compress PublicKey", para Chave Publica Completa "PublicKey Uncompressed".
+Apresenta a Chave Publica na versão Completa, e tambem suas Coordenadas X e Y, em Hexadecimal, e em Decimais.
+
+Otimo para Estudos de funcionamento de Chaves Publicas, e suas variaveis!
+
 Scripts ótimos para estudos de segurança em criptografia, descriptografia, afins...
 O uso destes scripts são de totais responsábilidade dos usuários, caso sejá utilizado de má fé, não culpe o desenvolvedor.
 
